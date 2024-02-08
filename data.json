@@ -1,0 +1,34 @@
+[
+    {
+        "product_name": "Graphite Pencils",
+        "product_description": "Graphite pencils are made of a mixture of graphite and clay, encased in wood. ",
+        "product_price": 99.98,
+        "product_dateAdded": "2024-02-06"
+    },
+    {
+        "product_name": "Charcoal Sticks",
+        "product_description": " Charcoal sticks are made from burnt wood and come in various forms, including vine and compressed charcoal.",
+        "product_price": 49.44,
+        "product_dateAdded": "2024-04-07"
+    },
+    {
+        "product_name": "Colored Pencils",
+        "product_description": " Colored pencils are composed of a pigment core encased in wood. They come in a wide range of colors and can be used for detailed drawing, coloring, and layering.",
+        "product_price": 149.49,
+        "product_dateAdded": "2024-02-08"
+    },
+    {
+        "product_name": "Pastels (Soft Pastels, Oil Pastels)",
+        "product_description": " Pastels are sticks made from pigment and a binder. Soft pastels have a high pigment concentration and a powdery texture, making them ideal for blending and layering. Oil pastels have a creamy consistency and can be applied thickly or thinly to create vibrant, textured effects.",
+        "product_price": 128.90,
+        "product_dateAdded": "2024-09-08"
+    },
+    {
+        "product_name": "Ink (Pen and Ink, Brush and Ink)",
+        "product_description": "Ink is a liquid or paste containing pigments or dyes used for drawing and writing. ",
+        "product_price": 58.90,
+        "product_dateAdded": "2024-11-08"
+    }
+]
+
+
