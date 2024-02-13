@@ -1,0 +1,28 @@
+[
+    {
+        "product_name": "kwek kwek",
+        "product_description": "SWEET AND SOUR",
+        "product_price": 20.00,
+        "product_dateAdded": "FEBUARY, 08,2024"
+        
+    },
+    {
+        "product_name": "Isaw",
+        "product_description": "SWEET AND SPICY",
+        "product_price": 8.00,
+        "product_dateAdded": "02,08,24"
+    },
+    {
+        "product_name": "Buko Juice",
+        "product_description": "SWEET AND REFRESHING",
+        "product_price": 10.00,
+        "product_dateAdded": "02,08,24"
+    },
+    {
+        "product_name": "Siomai",
+        "product_description": "SWEET AND SOUR",
+        "product_price": 20.00,
+        "product_dateAdded": "02,08,24"
+    }
+    
+]
